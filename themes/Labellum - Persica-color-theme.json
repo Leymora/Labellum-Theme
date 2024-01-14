@@ -626,10 +626,20 @@
 		  }
 		},
 		{
-			"name": "Bruh",
-			"scope": ["constant.language.true.cpp"],
+			"name": "Bool",
+			"scope": [
+				"constant.language.true.cpp",
+				"constant.language.false.cpp"
+			],
 			"settings": {
-			  "foreground": "#868281"
+			  "foreground": "#c594ab"
+			}
+		  },
+		  {
+			"name": "Variable Parameter",
+			"scope": ["variable.parameter.cpp"],
+			"settings": {
+			  "foreground": "#83beda"
 			}
 		  }
 	]
