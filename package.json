@@ -1,0 +1,21 @@
+{
+  "name": "labellum-theme",
+  "displayName": "Labellum Theme",
+  "description": "Color Theme from the Labellum Engine",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Labellum - Persica",
+        "uiTheme": "vs",
+        "path": "./themes/Labellum - Persica-color-theme.json"
+      }
+    ]
+  }
+}
