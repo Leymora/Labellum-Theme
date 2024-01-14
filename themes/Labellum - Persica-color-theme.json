@@ -622,8 +622,15 @@
 		  "name": "Markup - Table",
 		  "scope": ["markup.table"],
 		  "settings": {
-			"foreground": "#EEFFFF"
+			"foreground": "#868281"
 		  }
-		}
+		},
+		{
+			"name": "Bruh",
+			"scope": ["constant.language.true.cpp"],
+			"settings": {
+			  "foreground": "#868281"
+			}
+		  }
 	]
 }

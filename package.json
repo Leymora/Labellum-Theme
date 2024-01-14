@@ -2,12 +2,24 @@
   "name": "labellum-theme",
   "displayName": "Labellum Theme",
   "description": "Color Theme from the Labellum Engine",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "Leymora",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Leymora/Labellum-Theme"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "light theme",
+    "Labellum",
+    "Labellum Engine",
+    "Peach",
+    "Persica"
   ],
   "contributes": {
     "themes": [
