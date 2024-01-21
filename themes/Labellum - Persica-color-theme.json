@@ -620,7 +620,10 @@
 		},
 		{
 		  "name": "Markup - Table",
-		  "scope": ["markup.table"],
+		  "scope": [
+			"markup.table",
+			"text.html.markdown"
+		],
 		  "settings": {
 			"foreground": "#868281"
 		  }
