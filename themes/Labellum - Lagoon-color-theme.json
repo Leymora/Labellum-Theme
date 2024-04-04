@@ -1,5 +1,5 @@
 {
-	"name": "Labellum - Persica",
+	"name": "Labellum - Lagoon",
 	"type": "light",
 	"colors": {
 		"editor.background": "#fff6f5",
@@ -14,6 +14,7 @@
 		"editor.lineHighlightBackground": "#f4edea",
 		"tab.hoverBackground": "#e4deda",
 		"tab.border": "#e4deda",
+
 		"statusBar.background": "#b66872",
 		"statusBar.noFolderBackground": "#b66872",
 		"statusBar.debuggingBackground": "#516b73",
@@ -26,7 +27,8 @@
 		"peekViewTitle.background": "#b66872",
 		"peekViewResult.matchHighlightBackground": "#b66872",
 		"peekViewEditor.matchHighlightBackground": "#b66872",
-		"editor.findMatchHighlightBackground": "#b66872",
+		"editor.findMatchHighlightBackground": "#b6687281",
+
 		"checkbox.background": "#fff6f5",
 		"titleBar.activeBackground": "#f4edea",
 		"titleBar.inactiveBackground": "#f4edea",
@@ -40,6 +42,7 @@
 		"peekViewResult.background": "#f4edea",
 		"peekViewEditor.background": "#ece6e2",
 		"menu.background": "#ece6e2",
+
 		"gitDecoration.modifiedResourceForeground": "#BDCFA7",
 		"list.inactiveSelectionForeground": "#e6e2e2",
 		"list.focusOutline": "#c25151",
@@ -79,7 +82,7 @@
 			"string constant.other.placeholder"
 		  ],
 		  "settings": {
-			"foreground": "#4f8fa5"
+			"foreground": "#4f8fa5" //#4f8fa5
 		  }
 		},
 		{
@@ -157,7 +160,7 @@
 			"keyword.other.special-method"
 		  ],
 		  "settings": {
-			"foreground": "#d28187"
+			"foreground": "#ce7c9e"
 		  }
 		},
 		{
@@ -188,7 +191,7 @@
 			"keyword.other"
 		  ],
 		  "settings": {
-			"foreground": "#53DB89"
+			"foreground": "#4fa597"
 		  }
 		},
 		{
@@ -203,11 +206,10 @@
 			"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 		  ],
 		  "settings": {
-			"foreground": "#68ce91"
+			"foreground": "#4fa597"
 		  }
 		},
 		{
-  
 		  "name": "Class, Support",
 		  "scope": [
 			"entity.name",
@@ -221,7 +223,7 @@
 			"punctuation.terminator.statement"
 		  ],
 		  "settings": {
-			"foreground": "#e3b481"
+			"foreground": "#b2bd75"
 		  }
 		},
 		{

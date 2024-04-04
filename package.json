@@ -27,6 +27,11 @@
         "label": "Labellum - Persica",
         "uiTheme": "vs",
         "path": "./themes/Labellum - Persica-color-theme.json"
+      },
+      {
+        "label": "Labellum - Lagoon",
+        "uiTheme": "vs",
+        "path": "./themes/Labellum - Lagoon-color-theme.json"
       }
     ]
   }
