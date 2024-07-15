@@ -144,7 +144,7 @@
 			"markup.deleted.git_gutter"
 		  ],
 		  "settings": {
-			"foreground": "#f07178"
+			"foreground": "#b5be88"
 		  }
 		},
 		{
@@ -188,7 +188,7 @@
 			"keyword.other"
 		  ],
 		  "settings": {
-			"foreground": "#53DB89"
+			"foreground": "#6bbb8b"
 		  }
 		},
 		{
@@ -203,7 +203,7 @@
 			"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 		  ],
 		  "settings": {
-			"foreground": "#68ce91"
+			"foreground": "#6bbb8b"
 		  }
 		},
 		{
@@ -228,7 +228,7 @@
 		  "name": "Entity Types",
 		  "scope": ["support.type"],
 		  "settings": {
-			"foreground": "#B2CCD6"
+			"foreground": "#749cac"
 		  }
 		},
 		{
@@ -242,7 +242,7 @@
 			"source.postcss support.type.property-name"
 		  ],
 		  "settings": {
-			"foreground": "#B2CCD6"
+			"foreground": "#749cac"
 		  }
 		},
 		{
